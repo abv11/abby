@@ -4,7 +4,7 @@
 
 a quiet digital space made of melancholy, overthinking and soft chaos.
 
-<img src="https://i.pinimg.com/1200x/58/3f/8d/583f8d721a9b09b50a669636b099e052.jpg" width="100%">
+<img src="https://i.pinimg.com/1200x/58/3f/8d/583f8d721a9b09b50a669636b099e052.jpg" width="49%">
 
 </div>
 
@@ -50,7 +50,7 @@ the idea was to create something that feels:
 
 ---
 
-## preview
+## me
 
 <div align="center">
 
